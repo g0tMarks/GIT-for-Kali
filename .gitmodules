@@ -1,0 +1,3 @@
+[submodule "PRIV_ESC/LINUX/LinEnum"]
+	path = PRIV_ESC/LINUX/LinEnum
+	url = https://github.com/rebootuser/LinEnum.git
