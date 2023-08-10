@@ -54,3 +54,4 @@ whatweb
 whiptail
 wireless-tools
 zaproxy
+xclip
