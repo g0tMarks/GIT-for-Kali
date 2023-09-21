@@ -9,3 +9,5 @@ while read -r package; do
 done < installed_packages.txt
 
 echo "Installation of packages completed."
+
+python3 -m pipx install impacket
